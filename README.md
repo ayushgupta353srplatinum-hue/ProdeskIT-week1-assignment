@@ -9,5 +9,5 @@ It includes a responsive navbar with a hamburger menu for mobile view.
  Clean and simple UI
 
 # Screenshot
-![Website Screenshot](Week1-LandingPage.png)
+![Website Screenshot](week1-LandingPage.png)
 
