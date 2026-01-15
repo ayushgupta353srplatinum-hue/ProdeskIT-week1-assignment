@@ -8,6 +8,7 @@ It includes a responsive navbar with a hamburger menu for mobile view.
  Hamburger menu for mobile devices
  Clean and simple UI
 
-# Screenshot
+# Screenshot Of Desktop View
 ![Website Screenshot](homepage.png)
-
+#screenshot of Mobile view
+![Website Screenshot](homepage.png)
